@@ -45,8 +45,8 @@ A powerful and user-friendly tool to monitor nearby WiFi networks. This tool all
 
 1. **Clone the Repository**:
    ```bash
-   git clone [repository URL]
-   cd [repository folder]
+   git clone https://github.com/ssam246/Wifi-Monitor
+   cd Wifi-Monitor
    ```
 
 2. **Install Dependencies**:
@@ -126,7 +126,6 @@ To contribute:
 ## **License**
 
 This project is licensed under the **MIT License**.  
-See the [LICENSE](LICENSE.md) file for details.
 
 ---
 
