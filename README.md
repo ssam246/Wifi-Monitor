@@ -115,7 +115,7 @@ No networks detected. Try increasing the monitoring duration.
 
 ## **Contributing**
 
-We welcome contributions to enhance this tool!  
+I welcome contributions to enhance this tool!  
 To contribute:
 1. Fork the repository.
 2. Implement your changes or fix issues.
